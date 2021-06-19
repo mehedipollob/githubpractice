@@ -88,3 +88,12 @@ var shakib = {
     age : 20,
 }
 details.call(shakib);
+details.call(shakib);
+details.call(shakib);
+details.call(shakib);
+details.call(shakib);
+details.call(shakib);
+details.call(shakib);
+details.call(shakib);
+details.call(shakib);
+details.call(shakib);
